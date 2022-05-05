@@ -7,8 +7,16 @@
 🎓&nbsp;I'm a Software Engineering student at Icesi University.\
 🧠&nbsp;I'm currently learning JavaScript, React and NodeJs.
 
+### 📱 &nbsp;Social Media
+
+<a href="https://instagram.com/sofi._.di" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DianaSofiaOlano&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="DianaSofiaOlano" width="60%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DianaSofiaOlano&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="DianaSofiaOlano" width="37%">
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DianaSofiaOlano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaSofiaOlano&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
