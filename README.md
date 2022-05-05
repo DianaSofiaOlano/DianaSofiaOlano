@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 &nbsp;Hey there! I'm Diana
 
-<!--
-**DianaSofiaOlano/DianaSofiaOlano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩🏾‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+😎&nbsp;I like programming, since I'm in ninth grade I do programming. When I finished high school I graduated as the best female programmer of my generation.\
+🍕&nbsp;I'm a #1 fan of pineapple pizza.\
+🎓&nbsp;I'm a Software Engineering student at Icesi University.\
+🧠&nbsp;I'm currently learning JavaScript, React and NodeJs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DianaSofiaOlano&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="DianaSofiaOlano" width="60%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DianaSofiaOlano&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="DianaSofiaOlano" width="37%">
