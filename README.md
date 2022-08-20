@@ -16,7 +16,7 @@
 <div align="center">
   <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DianaSofiaOlano&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Diana's Github Stats" width="60%">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DianaSofiaOlano&layout=compact&langs_count=8&theme=react" width="40%" alt="Dianas's Top Languages">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DianaSofiaOlano&layout=compact&langs_count=8&theme=react" width="38%" alt="Dianas's Top Languages">
 </div>
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
