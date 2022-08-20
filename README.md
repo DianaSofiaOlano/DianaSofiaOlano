@@ -14,7 +14,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DianaSofiaOlano&show_icons=true&theme=react&include_all_commits=true&locale=en" alt="DianaSofiaOlano" width="60%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DianaSofiaOlano&layout=compact&langs_count=8&theme=react" width="60%" alt="Diana's Top Languages">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DianaSofiaOlano&show_icons=true&theme=react&include_all_commits=true&locale=en&layout=compact" alt="DianaSofiaOlano" width="37%">
 </div>
