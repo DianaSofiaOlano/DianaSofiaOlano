@@ -11,6 +11,8 @@
 
 <a href="https://instagram.com/sofi._.di" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+<a href="https://www.linkedin.com/in/diana-sofia-olano-monta%C3%B1o/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
