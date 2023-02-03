@@ -5,7 +5,7 @@
 😎&nbsp;I like programming, since I'm in ninth grade I do programming. When I finished high school I graduated as the best female programmer of my generation.\
 🍕&nbsp;I'm a #1 fan of pineapple pizza.\
 🎓&nbsp;I'm a Software Engineering student at Icesi University.\
-🧠&nbsp;I'm currently learning Scala programming language and functional programming.
+🧠&nbsp;I'm currently learning Phyton programming language and functional programming on Java.
 
 ### 📱 &nbsp;Social Media
 
