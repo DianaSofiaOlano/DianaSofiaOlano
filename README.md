@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm Diana Olano <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
-<h3 align="center">🎓 I'm a system engineering student at Icesi University</h3>
+<h3 align="center">🎓 I'm a software systems engineering at Icesi University</h3>
 
 - 😎&nbsp;I like programming, since I'm in ninth grade I do programming. When I finished high school I graduated as the best female programmer of my generation.
 - 🍕&nbsp;I'm a #1 fan of pineapple pizza.
